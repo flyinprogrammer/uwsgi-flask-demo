@@ -1,6 +1,6 @@
 # uWSGI Flask Demo
 
-So this is a tiny app, we use uWSGI to set it up.
+So this is a tiny app, we use uWSGI to set it up. Then I discovered [uwsgi#2406](https://github.com/unbit/uwsgi/issues/2406).
 
 In theory you can easily reproduce this on an M1 laptop:
 
