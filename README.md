@@ -141,7 +141,7 @@ Then establish a crude pattern that the issue seems to be related to something a
 the `master = true` and that the stats server requires `master = true` to spawn. Also
 no combination of `processes` and `threads` seemed to have any impact this.
 
-10. Get your hands on a _real_ linux computer because life is spectacular these day.
+10. Get your hands on a _real_ x86 linux computer because life is spectacular these day.
 Then run a public version of this image, and notice the error only exists on top
 of the qemu emulation bits. :shrug:
 
